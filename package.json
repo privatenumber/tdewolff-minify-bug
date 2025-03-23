@@ -1,0 +1,13 @@
+{
+	"scripts": {
+		"start": "node minify.cjs"
+	},
+	"dependencies": {
+		"@tdewolff/minify": "^2.22.3",
+		"jsdom-global": "^3.0.2",
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2",
+		"victory": "v35.8.4"
+	},
+	"packageManager": "pnpm@10.6.5"
+}
